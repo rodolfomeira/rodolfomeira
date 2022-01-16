@@ -24,6 +24,6 @@
  
 
   
-  //![Snake animation](https://github.com/rodolfomeira/rodolfomeira/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/rodolfomeira/rodolfomeira/blob/output/github-contribution-grid-snake.svg)
  
 </div> 
