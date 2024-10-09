@@ -6,11 +6,7 @@ Atualmente cursando o segundo semestre de Ciência da Computação, com foco em 
     <img src="https://komarev.com/ghpvc/?username=rodolfomeira&label=Profile%20views&color=0e75b6&style=flat" alt="rodolfomeira" /> 
 </p>
 
-<p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=rodolfomeira" alt="rodolfomeira" />
-    </a> 
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
