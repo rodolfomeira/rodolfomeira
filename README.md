@@ -35,7 +35,7 @@ Atualmente cursando o segundo semestre de Ciência da Computação, com foco em 
     </a> -->
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-    </a> -->
+    </a> 
     <!--<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
     </a> -->
@@ -69,7 +69,7 @@ Atualmente cursando o segundo semestre de Ciência da Computação, com foco em 
     <!--<a href="https://postman.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
     </a> -->
-    <<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a> 
     <!--<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
