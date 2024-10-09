@@ -1,6 +1,10 @@
 ### Olá, seja bem-vindo(a) ao meu perfil no GitHub! Meu nome é Rodolfo Meira 👋
 
-Atualmente cursando o segundo semestre de Ciência da Computação, com foco em desenvolvimento de software e criptografia. Tenho conhecimento em linguagens de programação como Python e experiência em projetos acadêmicos relacionados à segurança da informação (SSL/TLS). Também desenvolvi habilidades em lógica de programação, operadores e controle de fluxo, aplicando esses conhecimentos em projetos práticos. Busco continuamente aprender novas tecnologias e aprimorar minhas habilidades em desenvolvimento e segurança.
+Atualmente, estou cursando o Bacharelado em Ciência da Computação. Até o momento, aprendi habilidades essenciais em desenvolvimento de software, segurança da informação e criptografia. Ao longo do curso, tenho me aprofundado em linguagens de programação, especialmente Python, o que me permitiu trabalhar em projetos práticos e desafiadores. Também adquiri conhecimentos em áreas como banco de dados, UX (Experiência do Usuário) e prototipagem de soluções digitais, desenvolvendo interfaces eficientes e intuitivas.
+
+Além disso, busquei me qualificar através de certificações em Ciência de Dados e Inteligência Artificial, programação em Python, Azure Databricks e prototipagem no-code. Sou apaixonado por tecnologia e estou sempre em busca de novos aprendizados, participando de cursos e workshops em áreas como Inteligência Artificial, desenvolvimento web e outras tecnologias emergentes.
+
+Meu objetivo é aplicar esses conhecimentos em projetos que envolvam inovação tecnológica, especialmente nas áreas de desenvolvimento de software, segurança da informação e gerenciamento de banco de dados.
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=rodolfomeira&label=Profile%20views&color=0e75b6&style=flat" alt="rodolfomeira" /> 
