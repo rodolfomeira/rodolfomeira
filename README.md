@@ -19,8 +19,6 @@ Meu objetivo é aplicar esses conhecimentos em projetos que envolvam inovação 
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodolfomeira&show_icons=true&locale=en&layout=compact"       alt="rodolfomeira" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodolfomeira&show_icons=true&locale=en" alt="rodolfomeira" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodolfomeira&" alt="rodolfomeira" /></p>
