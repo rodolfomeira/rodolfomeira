@@ -6,6 +6,7 @@ Além disso, busquei me qualificar através de certificações em Ciência de Da
 
 Meu objetivo é aplicar esses conhecimentos em projetos que envolvam inovação tecnológica, especialmente nas áreas de desenvolvimento de software, segurança da informação e gerenciamento de banco de dados.
 
+
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=rodolfomeira&label=Profile%20views&color=0e75b6&style=flat" alt="rodolfomeira" /> 
 </p>
