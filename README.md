@@ -9,10 +9,6 @@
     <a href="https://www.instagram.com/rodolfomeira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodolfomeira&show_icons=true&locale=en" alt="rodolfomeira" /></p>
-
-
 ### Olá, seja bem-vindo(a) ao meu perfil no GitHub! Meu nome é Rodolfo Meira 👋
 
 Atualmente, estou cursando o Bacharelado em Ciência da Computação. Até o momento, aprendi habilidades essenciais em desenvolvimento de software, segurança da informação e criptografia. Ao longo do curso, tenho me aprofundado em linguagens de programação, especialmente Python, o que me permitiu trabalhar em projetos práticos e desafiadores. Também adquiri conhecimentos em áreas como banco de dados, UX (Experiência do Usuário) e prototipagem de soluções digitais, desenvolvendo interfaces eficientes e intuitivas.
@@ -21,6 +17,6 @@ Além disso, busquei me qualificar através de certificações em Ciência de Da
 
 Meu objetivo é aplicar esses conhecimentos em projetos que envolvam inovação tecnológica, especialmente nas áreas de desenvolvimento de software, segurança da informação e gerenciamento de banco de dados.
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodolfomeira&show_icons=true&locale=en" alt="rodolfomeira" /></p>
 
 
