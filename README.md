@@ -34,7 +34,7 @@ Aplicar meus conhecimentos em **desenvolvimento de software, análise de dados e
 - 📊 **Dashboard Financeiro com Python/Pandas** – Automação de relatórios e análise de dados.  
 - ✅ **API RESTful To-Do List** – CRUD de tarefas usando Node.js, Express e MySQL.  
 
-➡️ Confira mais no meu [GitHub](https://github.com/rodolfomeira).  
+➡️ Confira mais no meu [GitHub](https://github.com/rodolfomeira?tab=stars).  
 
 ---
 
